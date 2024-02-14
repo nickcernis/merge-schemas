@@ -1,0 +1,1 @@
+Put your schema files in this `schemas` directory and run `yarn start` to combine them into `combined-schema.graphql` in the project root.
